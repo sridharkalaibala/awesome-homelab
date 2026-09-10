@@ -18,7 +18,7 @@
 
 - name: Posnic POS
   url: https://github.com/Posnic/POS
-  description: 'Open-source POS and billing software for retail shops and restaurants, with offline checkout and self-hosted online/offline workflows. Website: https://posnic.io/'
+  description: 'Open-source POS and billing software for retail shops and restaurants, with offline checkout and self-hosted online/offline workflows. Website: https://www.posnic.com/'
 
 - name: grocy
   url: https://github.com/grocy/grocy
